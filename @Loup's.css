@@ -1,0 +1,50 @@
+
+.container{
+	width: 970px;
+  height:500px;
+	margin: 0px auto;
+}
+h1{
+  font-size:40px;
+  text-indent: 40px;
+}
+#Home{
+  text-indent: 10px;
+}
+#articles{
+  list-style-position: inside;
+  text-indent: 10px;
+}
+#list_inside{
+  list-style-position: outside;
+}
+#list_outside{
+  list-style-position: inside;
+  text-indent: 10px;
+}
+a{
+	text-decoration: none;
+}
+.box{
+  border-radius: 25px;
+  background: #9FA09F;
+  padding: 20px;
+  width: 650px;
+  height: 450px; 
+  position: relative;
+  left: 300px;
+  bottom: 375px;
+}
+.my_essays{
+  	width: 650px;
+  	height: 450px;
+}
+#p_section{
+  position: absolute;
+  top:600px;
+  text-indent: 40px;
+  font-size: 13px;
+}
+
+
+
